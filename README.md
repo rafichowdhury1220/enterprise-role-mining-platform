@@ -5,17 +5,12 @@ A Python reference implementation for a solution architect and IAM engineer that
 This project is designed to show:
 - architect-level system design
 - IAM domain expertise
-- data-driven role analysis and entitlement optimization
+- data-driven role analysis and entitlement optimisation
 - thoughtful engineering for enterprise-scale access control
 
 ## Why this matters
 
-Most organizations implement RBAC without a repeatable process to discover business-aligned roles, identify redundant entitlements, or reason about least privilege.
-
-This solution is built for:
-- 20,000+ users
-- 400+ applications
-- 50,000+ entitlements
+Most organisations implement RBAC without a repeatable process for discovering business-aligned roles, identifying redundant entitlements, or reasoning about least privilege.
 
 It demonstrates an enterprise-ready pattern for role mining, cloud governance, and identity optimization.
 
