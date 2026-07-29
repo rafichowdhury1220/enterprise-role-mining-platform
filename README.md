@@ -2,7 +2,7 @@
 
 A Python reference implementation for a solution architect and IAM engineer that demonstrates enterprise governance, role design, and access intelligence.
 
-This project is designed to catch recruiter attention by showing:
+This project is designed to show:
 - architect-level system design
 - IAM domain expertise
 - data-driven role analysis and entitlement optimization
@@ -26,7 +26,7 @@ It demonstrates an enterprise-ready pattern for role mining, cloud governance, a
 - **Explainability**: every output is traceable to business assumptions and risk decisions.
 - **Scalability mindset**: code is structured for evolving from proof-of-concept to a governance platform.
 
-## Highlights for recruiters
+## Highlights
 
 - Solution architect thinking: clear domain model, component boundaries, and design decisions.
 - IAM engineer knowledge: entitlement clustering, role overlap detection, and privilege normalization.
@@ -62,6 +62,3 @@ This implementation is intentionally modular so future enhancements can add:
 - policy enforcement and certification workflows
 - machine learning for entitlement recommendation
 
-## Recruiter note
-
-This repo is not just code: it tells a story about how to turn raw IAM data into explainable role governance. It is a strong signal for both solution architecture and identity engineering capability.
