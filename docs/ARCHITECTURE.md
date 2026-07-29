@@ -15,7 +15,7 @@ A reusable IAM analytics platform that turns raw entitlement assignments into bu
 
 - `data_loader.py`: ingestion and normalization of raw IAM access data
 - `role_analysis.py`: entitlement graph modeling, redundancy detection, and clustering
-- `role_suggestions.py`: human-centered recommendations and naming guidance
+- `role_suggestions.py`: human-centred recommendations and naming guidance
 - `pipeline.py`: orchestrates the end-to-end flow and keeps responsibilities separate
 - `cli.py`: easy entry points for analysis, recommendation, and summary reporting
 
