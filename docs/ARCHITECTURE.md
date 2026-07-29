@@ -35,7 +35,7 @@ flowchart LR
     D --> E[Entitlement Graph Modeling]
     D --> F[Role Clustering]
     F --> G[Role Suggestion Engine]
-    G --> H[Recruiter-Friendly Reports]
+    G --> H[Reports]
     H --> I[CLI / Executive Summary]
     B --> J[External Connectors]
     J --> B
